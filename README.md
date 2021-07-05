@@ -5,7 +5,6 @@
 
 [![LinkedIn Badge](https://img.shields.io/badge/-vigneshb2704-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vigneshb2704)](www.linkedin.com/in/vigneshb2704)
 
-[![Instagram Badge](https://img.shields.io/badge/-@vishakan__s-DD2A7B?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/vishakan_s/)](https://www.instagram.com/vishakan_s/)
 <br>
 
 ## About Me :mortar_board:
