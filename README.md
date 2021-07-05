@@ -3,7 +3,7 @@
 ##  Connect With Me :iphone:
 [![Gmail Badge](https://img.shields.io/badge/-vignesh18193@cse.ssn.edu.in-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vignesh18193@cse.ssn.edu.in)](mailto:vignesh18193@cse.ssn.edu.in)
 
-[![LinkedIn Badge](https://img.shields.io/badge/-vigneshb2704-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=www.linkedin.com/in/vigneshb2704)](www.linkedin.com/in/vigneshb2704)
+[![LinkedIn Badge](https://img.shields.io/badge/-vigneshb2704-0e76a8?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vigneshb2704/)](https://www.linkedin.com/in/vigneshb2704/)
 
 <br>
 
