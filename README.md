@@ -1,4 +1,10 @@
 # Hi👋 I'm B.Vignesh :bow:
+<br>
+## About Me :mortar_board:
+
+Focused and quick-learner with experience in Software development, Process Automation, Web development & Data analysis. Well capable of working under pressure & delivering beyond expectations while adhering to strict deadlines. A sincere and dedicated student who embraces teamwork, but also enjoys working independently to contribute for a good cause.
+
+<br>
 
 ##  Connect With Me :iphone:
 [![Gmail Badge](https://img.shields.io/badge/-vignesh18193@cse.ssn.edu.in-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:vignesh18193@cse.ssn.edu.in)](mailto:vignesh18193@cse.ssn.edu.in)
@@ -7,11 +13,6 @@
 
 <br>
 
-## About Me :mortar_board:
-
-Focused and quick-learner with experience in Software development, Process Automation, Web development & Data analysis. Well capable of working under pressure & delivering beyond expectations while adhering to strict deadlines. A sincere and dedicated student who embraces teamwork, but also enjoys working independently to contribute for a good cause.
-
-<br>
 
 ## GitHub Stats :thought_balloon:
 
